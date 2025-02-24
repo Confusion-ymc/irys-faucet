@@ -5,4 +5,4 @@
 
 exe地址：[Download](https://github.com/Confusion-ymc/irys-faucet/releases/download/v1.0/irys_v1.exe)
 
-源地址: https://irys.xyz/faucet
+源地址：https://irys.xyz/faucet
